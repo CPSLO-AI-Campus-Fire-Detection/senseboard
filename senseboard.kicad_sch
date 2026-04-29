@@ -10878,7 +10878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "006e97c6-8427-4e87-a6a1-3dc37721dfa0")
-		(property "Reference" "R20"
+		(property "Reference" "R11"
 			(at 222.25 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10942,7 +10942,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R20")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -10960,7 +10960,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01de54f1-c3cb-4f85-9543-aa3bd6b4e54c")
-		(property "Reference" "C20"
+		(property "Reference" "C17"
 			(at 347.98 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11024,7 +11024,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C20")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -11042,7 +11042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03c7b0aa-be58-46f8-a3d5-08af2a80dbb4")
-		(property "Reference" "R24"
+		(property "Reference" "R25"
 			(at 398.78 139.6999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11106,7 +11106,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R24")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -11124,7 +11124,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06859bbe-3c67-4f99-b787-0e4273ee2de6")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR038"
 			(at 311.15 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -11184,7 +11184,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR030")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -11202,7 +11202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b6aecfa-3ad9-457f-9a49-4e1a51f7ad84")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR043"
 			(at 341.63 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -11262,7 +11262,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR033")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -11280,7 +11280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0bce88ff-939e-4b33-860b-16e7c21125b2")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR022"
 			(at 172.72 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -11340,7 +11340,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR040")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -11358,7 +11358,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0df0a6d1-7ca4-4272-8244-38653db11648")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 67.31 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -11418,7 +11418,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -11435,7 +11435,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e0332f6-8f3c-4a44-af25-0bfa8de8c76a")
-		(property "Reference" "R13"
+		(property "Reference" "R4"
 			(at 90.17 203.454 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11497,7 +11497,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R13")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -11515,7 +11515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "125943e3-3a79-42ed-8a33-08e90dc8acdb")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR014"
 			(at 113.03 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -11575,7 +11575,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR08")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -11593,7 +11593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15dc3f1f-398b-42e2-866c-c5c836af28f9")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR016"
 			(at 128.27 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -11653,7 +11653,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR03")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -11671,7 +11671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1618212d-09fa-4c5a-8e6b-1849aed665a5")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR034"
 			(at 257.81 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -11731,7 +11731,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR024")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -11749,7 +11749,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "176fbdaf-37f8-41b4-97c3-7de76d51732a")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR052"
 			(at 397.51 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -11809,7 +11809,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR046")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -12073,7 +12073,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a38fc48-77ef-4d11-a3a9-6e92eb4bccd0")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR028"
 			(at 236.22 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -12133,7 +12133,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR026")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -12151,7 +12151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d459216-ce91-48b8-be8e-2fa28ad28941")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR042"
 			(at 341.63 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -12211,7 +12211,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR032")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -12229,7 +12229,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ff415e9-c1bd-49f9-bf3e-36b851e2975a")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR036"
 			(at 290.83 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -12289,7 +12289,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR042")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -12307,7 +12307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33908cd0-dcf3-485c-9c08-250917165197")
-		(property "Reference" "C16"
+		(property "Reference" "C18"
 			(at 354.33 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12371,7 +12371,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C16")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -12389,7 +12389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "399a2f63-4a9a-46ef-b399-8eefdbabe7a3")
-		(property "Reference" "C5"
+		(property "Reference" "C3"
 			(at 68.58 173.99 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12451,7 +12451,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C5")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -12468,7 +12468,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a46360d-aa86-4a55-bc13-8aa807ea0941")
-		(property "Reference" "R15"
+		(property "Reference" "R2"
 			(at 64.77 193.294 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12530,7 +12530,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R15")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -12548,7 +12548,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3aa7db67-2a17-4639-96bc-651404c74414")
-		(property "Reference" "R10"
+		(property "Reference" "R20"
 			(at 344.17 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12612,7 +12612,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R10")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -12630,7 +12630,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c822388-a358-413a-9799-ba72b57e9105")
-		(property "Reference" "R21"
+		(property "Reference" "R12"
 			(at 231.14 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12694,7 +12694,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R21")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -12712,7 +12712,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ed1e8e8-752e-4058-a0d5-500925e6efcb")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR035"
 			(at 276.86 127 0)
 			(hide yes)
 			(show_name no)
@@ -12772,7 +12772,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR027")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -12790,7 +12790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "427f1aa4-01c5-410d-8328-92ee092411c9")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR020"
 			(at 146.05 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -12850,7 +12850,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR018")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -12868,7 +12868,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42fac29c-3dd6-41bf-a109-75fef1d07807")
-		(property "Reference" "C6"
+		(property "Reference" "C9"
 			(at 187.96 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12930,7 +12930,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C6")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -12948,7 +12948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4495e5f0-c39b-4b60-9a90-46a9c021c11b")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR044"
 			(at 364.49 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -13008,7 +13008,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR049")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -13025,7 +13025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "44a3882d-1fe8-469a-873b-6f95dd5ccecf")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR027"
 			(at 201.93 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -13085,7 +13085,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR050")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -13102,7 +13102,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "44ebae49-b95f-49e0-94a6-d0bcf8d5f88a")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 189.992 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13181,7 +13181,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U3")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -13198,7 +13198,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "48097782-59e2-417d-a82c-c94c46af9713")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR032"
 			(at 245.11 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -13258,7 +13258,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR023")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -13357,7 +13357,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4bdca51a-8461-4638-a42f-724ebc45bf28")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR01"
 			(at 38.1 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -13417,7 +13417,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR015")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -13435,7 +13435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c9c94db-fa66-4509-a6f4-c38cc0c6f434")
-		(property "Reference" "R2"
+		(property "Reference" "R1"
 			(at 62.23 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13499,7 +13499,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -13599,7 +13599,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e535110-6176-4d68-b2bc-ad12a1e5e7d2")
-		(property "Reference" "C7"
+		(property "Reference" "C14"
 			(at 251.46 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13661,7 +13661,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C7")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -13679,7 +13679,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ee0f160-474b-4ae1-972a-23e533547ab6")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR04"
 			(at 41.91 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -13739,7 +13739,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR013")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -13757,7 +13757,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55e7502a-d0a3-477c-aff2-3270c4a45fa9")
-		(property "Reference" "R1"
+		(property "Reference" "R6"
 			(at 115.57 86.3599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13821,7 +13821,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R1")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -13838,7 +13838,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "574c6d22-3a16-4c5f-a733-628710d78c7a")
-		(property "Reference" "R14"
+		(property "Reference" "R5"
 			(at 90.17 210.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13900,7 +13900,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R14")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -13998,7 +13998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58d74309-07a9-4c67-9eaf-8c1ee6f1b214")
-		(property "Reference" "C8"
+		(property "Reference" "C11"
 			(at 240.03 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14062,7 +14062,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C8")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -14080,7 +14080,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b07a1dc-1274-4577-9625-10ac3ea7b4ee")
-		(property "Reference" "C9"
+		(property "Reference" "C13"
 			(at 250.19 157.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14144,7 +14144,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C9")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -14162,7 +14162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60fb58df-6e91-49df-89ac-b76465a54e1a")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR019"
 			(at 128.27 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -14222,7 +14222,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR010")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -14240,7 +14240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65d4d146-1f9a-40b1-bd9e-3342b708a4b0")
-		(property "Reference" "R19"
+		(property "Reference" "R10"
 			(at 213.36 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14304,7 +14304,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R19")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -14322,7 +14322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66cd14d4-12cd-45cb-b8c0-24661dbba99e")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR040"
 			(at 325.12 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -14382,7 +14382,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR011")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -14400,7 +14400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c2fcb61-9bcc-493c-90ff-a462ba4fd944")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR03"
 			(at 41.91 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -14460,7 +14460,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR02")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -14560,7 +14560,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f06a4e7-3ae4-404a-b161-82cd7a735077")
-		(property "Reference" "R25"
+		(property "Reference" "R24"
 			(at 389.89 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14624,7 +14624,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R25")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -14641,7 +14641,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71d2ef60-7d48-44ab-bf3e-f697aa8786bd")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR09"
 			(at 71.12 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -14702,7 +14702,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR038")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -14719,7 +14719,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "75f7ea27-4597-45ff-861e-71fb805d4aeb")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR025"
 			(at 194.31 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -14779,7 +14779,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR020")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -14797,7 +14797,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "76d9d287-2c66-4678-90b2-d6f1fbb0c27b")
-		(property "Reference" "R7"
+		(property "Reference" "R17"
 			(at 313.69 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14861,7 +14861,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R7")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -14879,7 +14879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "770f9bcb-62c8-40af-9845-dd028e4603bb")
-		(property "Reference" "D2"
+		(property "Reference" "D4"
 			(at 53.6575 127 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14941,7 +14941,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "D2")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -14959,7 +14959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a7947df-7713-405e-adaf-db79d0a677e0")
-		(property "Reference" "R9"
+		(property "Reference" "R19"
 			(at 344.17 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15023,7 +15023,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R9")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -15041,7 +15041,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a8e686a-d372-480d-ad7a-c5d14b4b0787")
-		(property "Reference" "D1"
+		(property "Reference" "D2"
 			(at 53.6575 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15103,7 +15103,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "D1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -15120,7 +15120,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7fd8ba9c-c497-470c-8d01-b1edf3d369e4")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 200.152 117.856 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15246,7 +15246,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U4")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -15264,7 +15264,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8158e3ad-2d23-4584-9a70-5cf8c9853ef3")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR047"
 			(at 373.38 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15324,7 +15324,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR035")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -15342,7 +15342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81649fbc-f237-4f71-aa9e-6a0cb40c1025")
-		(property "Reference" "C19"
+		(property "Reference" "C16"
 			(at 335.28 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15406,7 +15406,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C19")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -15424,7 +15424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "827d420c-6d1a-48fe-9efa-19c26453c281")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR045"
 			(at 364.49 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -15484,7 +15484,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR048")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -15502,7 +15502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "828a4ae6-8f3d-49ef-87d0-32205ad54528")
-		(property "Reference" "C2"
+		(property "Reference" "C6"
 			(at 132.08 74.9299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15566,7 +15566,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C2")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -15584,7 +15584,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "880c8fe6-92aa-4774-8c30-a7e38fad2bed")
-		(property "Reference" "U1"
+		(property "Reference" "U8"
 			(at 332.3433 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15790,7 +15790,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U1")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -15808,7 +15808,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89377e85-d8f1-485c-b071-3a0d21521a25")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR011"
 			(at 78.74 218.44 0)
 			(hide yes)
 			(show_name no)
@@ -15868,7 +15868,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR016")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -15968,7 +15968,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e89d57d-e0e7-4c33-90cb-9e905dfcf35a")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR039"
 			(at 311.15 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -16028,7 +16028,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR031")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -16046,7 +16046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9196bbb8-d1ed-47b9-b807-e68db27a68aa")
-		(property "Reference" "R11"
+		(property "Reference" "R21"
 			(at 375.92 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16110,7 +16110,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R11")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -16128,7 +16128,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9232eb1f-af0f-4bb9-b6a4-8ca8af92436f")
-		(property "Reference" "R5"
+		(property "Reference" "R13"
 			(at 229.87 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16190,7 +16190,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R5")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -16207,7 +16207,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94b4c874-b3c3-4af2-9782-5a5e30166a88")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR030"
 			(at 236.22 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -16267,7 +16267,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR025")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -16399,7 +16399,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9587d37d-d89c-4f98-a440-8c2d267e49d0")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 97.79 124.968 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16419,7 +16419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VSON8_2P1X1P6_TEX"
+		(property "Footprint" "TPS62840DLCR:VSON8_2P1X1P6_TEX"
 			(at 97.79 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -16481,7 +16481,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -16498,7 +16498,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "95972028-4227-4574-9289-8ca83de23a12")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR021"
 			(at 172.72 212.09 0)
 			(hide yes)
 			(show_name no)
@@ -16558,7 +16558,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR039")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -16575,7 +16575,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9723d2ac-0e1f-474e-bc9e-55791e5da56b")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR049"
 			(at 387.35 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -16635,7 +16635,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR051")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -16653,7 +16653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9762077b-a8dd-4aa3-8d90-4a43639a738e")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR026"
 			(at 194.31 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -16713,7 +16713,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR021")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -16731,7 +16731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b91eb77-f7ed-4be4-b800-0fac3e27db08")
-		(property "Reference" "C24"
+		(property "Reference" "C23"
 			(at 398.78 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16795,7 +16795,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C24")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -16813,7 +16813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c8924d7-336d-4a4e-abac-0b83800ce7f3")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR02"
 			(at 41.91 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -16873,7 +16873,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR012")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -16891,7 +16891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a35de5fa-73cc-4d1b-90bc-5e43bd60325e")
-		(property "Reference" "C22"
+		(property "Reference" "C20"
 			(at 373.38 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16955,7 +16955,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C22")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -16973,7 +16973,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a44e92ba-aeec-4579-ad7f-cdee97d87b6f")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR037"
 			(at 302.26 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -17033,7 +17033,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR043")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -17050,7 +17050,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4dd6ff7-04fc-4d82-a101-11dfc8e8598f")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR010"
 			(at 73.66 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -17111,7 +17111,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR017")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -17129,7 +17129,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a79bd4e8-630f-426c-b9a1-f2e70153da86")
-		(property "Reference" "U7"
+		(property "Reference" "U1"
 			(at 80.3911 198.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17208,7 +17208,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U7")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -17225,7 +17225,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a9768f0a-723b-4d09-9b29-cbea64d6a8df")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR050"
 			(at 387.35 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -17285,7 +17285,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR052")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -17303,7 +17303,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa90ae78-09ca-427b-8b7a-0ba125448188")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR05"
 			(at 41.91 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -17363,7 +17363,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR06")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -17381,7 +17381,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aaea1110-3d23-4469-a86e-289c3ade28d9")
-		(property "Reference" "C17"
+		(property "Reference" "C21"
 			(at 386.08 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17445,7 +17445,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C17")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -17463,7 +17463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac1aded1-e687-45c1-9410-b4e598693d0d")
-		(property "Reference" "R18"
+		(property "Reference" "R9"
 			(at 204.47 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17527,7 +17527,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R18")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -17545,7 +17545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acd6e290-279c-4df4-a97a-807168c94569")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR07"
 			(at 67.31 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -17605,7 +17605,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR01")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -17623,7 +17623,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "adc95f84-4ef9-4dac-92dc-434a7517a8e0")
-		(property "Reference" "C13"
+		(property "Reference" "C4"
 			(at 111.76 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17687,7 +17687,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C13")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -17705,7 +17705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af9a2c83-881a-48fb-b707-63c3bfaa7f81")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR06"
 			(at 45.72 234.95 0)
 			(hide yes)
 			(show_name no)
@@ -17765,7 +17765,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR014")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -17783,7 +17783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0261107-e1fa-4ca7-9cb4-68ea5b43693e")
-		(property "Reference" "C21"
+		(property "Reference" "C19"
 			(at 360.68 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17847,7 +17847,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C21")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -17865,7 +17865,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b31cae8d-f933-4c49-b339-1156d81f6450")
-		(property "Reference" "U2"
+		(property "Reference" "U7"
 			(at 248.92 58.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17937,7 +17937,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U2")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -18079,7 +18079,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b414526b-73b4-40d2-883e-e957479707c8")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR041"
 			(at 327.66 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -18139,7 +18139,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR045")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -18239,7 +18239,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5767680-7813-4eef-a1a3-1cebcf934f25")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 53.6575 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18301,7 +18301,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -18319,7 +18319,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5b5c72d-b052-41ea-a2ab-58e591d5e431")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 181.61 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18379,7 +18379,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -18396,7 +18396,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b619a1b2-fdf4-423f-b7c1-be1507442613")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR015"
 			(at 121.92 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -18457,7 +18457,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR037")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -18475,7 +18475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6d91b9f-1bdb-4438-b0b5-049597ac6d04")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR018"
 			(at 128.27 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -18535,7 +18535,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR09")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -18553,7 +18553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8982b4a-d488-4b1e-879d-59e9d883aa01")
-		(property "Reference" "D3"
+		(property "Reference" "D1"
 			(at 53.6575 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18615,7 +18615,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "D3")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -18633,7 +18633,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbb3c2d0-1e6c-4abb-9000-2d77f9919ba1")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 45.72 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18740,7 +18740,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -18758,7 +18758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd667d28-0442-4e3b-b6f5-2c00cd70784e")
-		(property "Reference" "R8"
+		(property "Reference" "R18"
 			(at 313.69 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18822,7 +18822,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R8")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -18840,7 +18840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf12a7f3-c003-4991-be4d-4bcdd7d1562d")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR046"
 			(at 373.38 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -18900,7 +18900,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR034")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -18996,7 +18996,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c452215a-930d-409d-b366-c81a811aa394")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR013"
 			(at 113.03 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -19056,7 +19056,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR04")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -19074,7 +19074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c47c3d14-da7e-4c40-9546-7fa745152609")
-		(property "Reference" "C12"
+		(property "Reference" "C5"
 			(at 125.73 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19138,7 +19138,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C12")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -19156,7 +19156,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c746274c-c30e-4c8c-a119-ae1b1778e5fa")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR031"
 			(at 236.22 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -19216,7 +19216,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR028")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -19233,7 +19233,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cafea649-a343-4b93-84ac-674b5bb9bb81")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR012"
 			(at 107.95 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -19294,7 +19294,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR036")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -19312,7 +19312,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd00865b-c23d-40cb-b17f-18124a5bd21e")
-		(property "Reference" "C14"
+		(property "Reference" "C8"
 			(at 176.53 215.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19376,7 +19376,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C14")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -19394,7 +19394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd52acab-ac53-4c1b-80ba-4bc20eddef60")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR048"
 			(at 386.08 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -19454,7 +19454,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR047")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -19472,7 +19472,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cfc4db5b-e76a-4f80-a302-0aec46d149ef")
-		(property "Reference" "C18"
+		(property "Reference" "C24"
 			(at 401.32 114.2999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19536,7 +19536,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C18")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -19554,7 +19554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d16dfdc8-fcc7-4ab6-ada1-4565b7ccf5bc")
-		(property "Reference" "C4"
+		(property "Reference" "C7"
 			(at 132.08 137.1599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19618,7 +19618,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C4")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -19636,7 +19636,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4d765ac-9d8b-41a8-b7de-e046478120e5")
-		(property "Reference" "C3"
+		(property "Reference" "C2"
 			(at 71.12 137.1599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19700,7 +19700,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C3")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -19718,7 +19718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7eeb984-ed48-40db-91af-bb5dcc6e00ce")
-		(property "Reference" "C11"
+		(property "Reference" "C12"
 			(at 250.19 107.9499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19782,7 +19782,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C11")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -19800,7 +19800,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0e4c7a9-1f1f-42bd-8fba-10a931641001")
-		(property "Reference" "R22"
+		(property "Reference" "R15"
 			(at 240.03 194.3099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19864,7 +19864,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R22")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -19882,7 +19882,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e24a24bb-d8ca-4a22-a7fe-208486f68f76")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 268.605 191.77 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19968,7 +19968,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -19985,7 +19985,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5611ace-badc-4b3b-9bd5-3c90f57d95cc")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR024"
 			(at 186.69 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -20045,7 +20045,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR041")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -20063,7 +20063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e899a029-2ef3-4799-92bb-aff65723ee50")
-		(property "Reference" "R12"
+		(property "Reference" "R22"
 			(at 375.92 43.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20127,7 +20127,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R12")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -20145,7 +20145,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9f8d284-439b-4f87-9c0a-acca45f589fe")
-		(property "Reference" "R3"
+		(property "Reference" "R14"
 			(at 229.87 144.78 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20207,7 +20207,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R3")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -20224,7 +20224,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec5468f7-29ea-43d8-ae71-5b111d6d6d4d")
-		(property "Reference" "R6"
+		(property "Reference" "R16"
 			(at 293.37 118.618 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20286,7 +20286,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R6")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -20303,7 +20303,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed0d5d00-7a83-49fe-b38e-efd79d414615")
-		(property "Reference" "U8"
+		(property "Reference" "U6"
 			(at 200.152 167.386 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20429,7 +20429,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U8")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -20447,7 +20447,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eda7b15d-7d86-4470-98be-b6c69a44f53a")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR017"
 			(at 128.27 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -20507,7 +20507,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR05")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -20525,7 +20525,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edc161b0-0168-4606-8258-41df35394d0c")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR033"
 			(at 245.11 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -20585,7 +20585,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR019")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -20602,7 +20602,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "efd7e773-5c6d-460b-a429-622d5f091455")
-		(property "Reference" "R17"
+		(property "Reference" "R8"
 			(at 193.04 228.346 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20664,7 +20664,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R17")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -20761,7 +20761,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f4f83724-e5a6-4b68-8f1d-cb57cec98ac6")
-		(property "Reference" "R16"
+		(property "Reference" "R3"
 			(at 64.77 200.406 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20823,7 +20823,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R16")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -20841,7 +20841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5559668-fb87-47ac-b5cb-5b89eba782af")
-		(property "Reference" "C23"
+		(property "Reference" "C22"
 			(at 386.08 78.7399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20905,7 +20905,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "C23")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -21004,7 +21004,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f9eb5dfa-85bc-464c-be45-248e5cf0426f")
-		(property "Reference" "U6"
+		(property "Reference" "U2"
 			(at 97.79 62.738 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21024,7 +21024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VSON8_2P1X1P6_TEX"
+		(property "Footprint" "TPS62840DLCR:VSON8_2P1X1P6_TEX"
 			(at 97.79 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -21086,7 +21086,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "U6")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -21104,7 +21104,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcbe9e41-11a1-4a02-abbd-f8df8dfa1482")
-		(property "Reference" "R4"
+		(property "Reference" "R7"
 			(at 115.57 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21168,7 +21168,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "R4")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -21186,7 +21186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd5f7cb6-39be-49b8-882a-3856dd2efcd3")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR051"
 			(at 394.97 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -21246,7 +21246,7 @@
 		(instances
 			(project "senseboard"
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
-					(reference "#PWR044")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
