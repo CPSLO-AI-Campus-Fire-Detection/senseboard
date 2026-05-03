@@ -746,8 +746,12 @@
         "uuid": "1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
       }
     ],
-    "used_designators": "#G1,R28-29,IC1,#PWR58-62,C25-26",
-    "variants": []
+    "used_designators": "",
+    "variants": [
+      {
+        "name": "STD"
+      }
+    ]
   },
   "sheets": [
     [
