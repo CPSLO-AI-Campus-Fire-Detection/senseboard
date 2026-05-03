@@ -1,6 +1,9 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "TPS62840DLCR") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/TPS62840DLCR") (options "") (descr ""))
+	(lib (name "graphics") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/graphics") (options "") (descr ""))
 	(lib (name "DM3AT_SF_PEJM5") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/DM3AT_SF_PEJM5") (options "") (descr ""))
 	(lib (name "SGP41-D-R4") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/SGP41-D-R4") (options "") (descr ""))
+	(lib (name "EMIF06_MSD02N16") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/EMIF06_MSD02N16") (options "") (descr ""))
+	(lib (name "BME690") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/BME690") (options "") (descr ""))
 )
