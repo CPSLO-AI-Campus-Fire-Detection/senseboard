@@ -586,12 +586,6 @@
           "show": true
         },
         {
-          "group_by": false,
-          "label": "Qty",
-          "name": "${QUANTITY}",
-          "show": true
-        },
-        {
           "group_by": true,
           "label": "Value",
           "name": "Value",
@@ -601,12 +595,18 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
           "show": true
         },
         {
@@ -680,6 +680,36 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -746,7 +776,7 @@
         "uuid": "1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
       }
     ],
-    "used_designators": "#PWR63-64,C27-28",
+    "used_designators": "D6-7,#PWR49,R30",
     "variants": [
       {
         "name": "STD"
