@@ -9,4 +9,5 @@
 	(lib (name "cal_poly_alt") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/graphics/cal_poly_alt.kicad_sym") (options "") (descr ""))
 	(lib (name "cal_poly__alt_12h") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/graphics/cal_poly__alt_12h.kicad_sym") (options "") (descr ""))
 	(lib (name "BME690") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/BME690/BME690.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS62849DLCR") (type "KiCad") (uri "C:/Users/amkkp/git/seniorproject/libraries/TPS62849DLCR/TPS62849DLCR.kicad_sym") (options "") (descr ""))
 )
