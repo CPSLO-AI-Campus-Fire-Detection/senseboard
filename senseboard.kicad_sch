@@ -15202,6 +15202,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C17")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -15284,6 +15287,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R11")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -15410,6 +15416,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U10")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -15579,6 +15588,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "D5")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -15893,6 +15905,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R4")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -16367,6 +16382,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -16450,6 +16468,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C25")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -16530,6 +16551,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "L1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -16695,6 +16719,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "H3")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -16780,6 +16807,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "Y1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -16937,6 +16967,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C36")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17168,6 +17201,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "H2")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17244,6 +17280,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "H4")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17326,6 +17365,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C18")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17487,6 +17529,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C26")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17567,6 +17612,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C3")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17646,6 +17694,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R2")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -17732,7 +17783,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "50k")
+							(value "47k")
 						)
 					)
 				)
@@ -17817,10 +17868,6 @@
 					(unit 1)
 					(variant
 						(name "STD")
-						(field
-							(name "Value")
-							(value "BAT54WX-TP")
-						)
 					)
 				)
 			)
@@ -17979,6 +18026,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C8")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -18152,6 +18202,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U4")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -18473,6 +18526,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "Y2")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -18632,6 +18688,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "F1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -18792,6 +18851,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R33")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -18874,6 +18936,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -18956,6 +19021,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R9")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -19035,6 +19103,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C13")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -19439,6 +19510,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R6")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -19518,6 +19592,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R5")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -19598,6 +19675,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "FB1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -19680,6 +19760,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C10")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -19918,6 +20001,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C12")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -20164,6 +20250,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R10")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -20321,6 +20410,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R31")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -20478,6 +20570,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C35")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -20557,6 +20652,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C38")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -20797,10 +20895,6 @@
 					(unit 1)
 					(variant
 						(name "STD")
-						(field
-							(name "Value")
-							(value "BAT54WX-TP")
-						)
 					)
 				)
 			)
@@ -20884,6 +20978,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R18")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -21231,6 +21328,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "J3")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -21389,6 +21489,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C27")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -21475,7 +21578,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "50k")
+							(value "47k")
 						)
 					)
 				)
@@ -21558,6 +21661,13 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "D4")
 					(unit 1)
+					(variant
+						(name "STD")
+						(field
+							(name "Value")
+							(value "STPS1L30MF")
+						)
+					)
 				)
 			)
 		)
@@ -21644,7 +21754,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "50k")
+							(value "47k")
 						)
 					)
 				)
@@ -21727,6 +21837,13 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "D2")
 					(unit 1)
+					(variant
+						(name "STD")
+						(field
+							(name "Value")
+							(value "STPS1L30MF")
+						)
+					)
 				)
 			)
 		)
@@ -21826,6 +21943,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U3")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -22058,6 +22178,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U5")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -22218,6 +22341,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C16")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -22378,6 +22504,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C6")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -22457,6 +22586,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C37")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -22681,6 +22813,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U8")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -22919,6 +23054,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C9")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -23083,7 +23221,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "50k")
+							(value "47k")
 						)
 					)
 				)
@@ -23166,6 +23304,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R16")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -23603,6 +23744,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "BT1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -23996,6 +24140,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C24")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -24234,6 +24381,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C20")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -24472,6 +24622,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C33")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -24569,6 +24722,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -24729,6 +24885,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U11")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -24811,6 +24970,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R8")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -25055,6 +25217,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C22")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -25215,6 +25380,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C4")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -25464,6 +25632,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C19")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -25554,6 +25725,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U7")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -26018,6 +26192,13 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "D3")
 					(unit 1)
+					(variant
+						(name "STD")
+						(field
+							(name "Value")
+							(value "STPS120MF")
+						)
+					)
 				)
 			)
 		)
@@ -26421,6 +26602,13 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "D1")
 					(unit 1)
+					(variant
+						(name "STD")
+						(field
+							(name "Value")
+							(value "STPS120MF")
+						)
+					)
 				)
 			)
 		)
@@ -26624,6 +26812,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "J1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -26710,7 +26901,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "50k")
+							(value "47k")
 						)
 					)
 				)
@@ -27107,6 +27298,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C5")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -27423,6 +27617,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R28")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -27506,6 +27703,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C14")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -27683,6 +27883,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U2")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -27765,6 +27968,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C21")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -27847,6 +28053,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C7")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -28009,10 +28218,6 @@
 					(unit 1)
 					(variant
 						(name "STD")
-						(field
-							(name "Value")
-							(value "330")
-						)
 					)
 				)
 			)
@@ -28096,6 +28301,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C2")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -28178,6 +28386,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C11")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -28518,7 +28729,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "50k")
+							(value "47k")
 						)
 					)
 				)
@@ -28601,6 +28812,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R17")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -28680,6 +28894,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R20")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -28823,6 +29040,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "U6")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -29145,6 +29365,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "L2")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -29302,6 +29525,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R3")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -29384,6 +29610,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C23")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -29542,6 +29771,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C34")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -29696,6 +29928,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "H1")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -29856,6 +30091,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "C15")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -30016,6 +30254,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R7")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
@@ -30265,6 +30506,9 @@
 				(path "/1d0c6cc5-c5d8-4c6f-b592-74cf3ece8db8"
 					(reference "R19")
 					(unit 1)
+					(variant
+						(name "STD")
+					)
 				)
 			)
 		)
