@@ -21617,7 +21617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMP_DO-220AA"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 53.34 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -21665,7 +21665,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "STPS1L30MF")
+							(value "STPS1L30A")
 						)
 					)
 				)
@@ -21793,7 +21793,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMP_DO-220AA"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 50.8 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -21841,7 +21841,7 @@
 						(name "STD")
 						(field
 							(name "Value")
-							(value "STPS1L30MF")
+							(value "STPS1L30A")
 						)
 					)
 				)
